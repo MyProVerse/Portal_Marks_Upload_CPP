@@ -1,9 +1,5 @@
 # Student Portal System - C++ File Handling Project
 
-![C++](https://img.shields.io/badge/C++-17-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Archived-yellow.svg)
-
 ## 📝 Description
 A console-based student management system developed during my 2nd semester (2022) at University of Central Punjab. This project demonstrates fundamental file handling operations in C++ while adhering to curriculum constraints that prohibited using functions, OOP, or advanced concepts at that stage of learning.
 
