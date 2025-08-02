@@ -10,7 +10,7 @@ A console-based student management system developed during my 2nd semester (2022
 ## 📂 Project Files
 | File               | Purpose                          | Sample Content             |
 |--------------------|----------------------------------|----------------------------|
-| `student_portal.cpp` | Main program logic              | [View code](#)             |
+| `student_portal.cpp` | Main program logic              | [View code](student_portal.cpp)             |
 | `register.txt`     | Stores student credentials      | `1 maryam 1234`            |
 | `reg.txt`          | Stores registration numbers     | `1 maryam`                 |
 | `pswd.txt`         | Stores passwords                | `1 1234`                   |
